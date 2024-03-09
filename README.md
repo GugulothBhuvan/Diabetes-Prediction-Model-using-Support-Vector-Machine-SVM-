@@ -24,4 +24,4 @@ The PIMA Diabetes Dataset consists of various health metrics such as glucose lev
 This project is based on the work of the UCI Machine Learning Repository and Kaggle contributors who provided the PIMA Diabetes Dataset.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
