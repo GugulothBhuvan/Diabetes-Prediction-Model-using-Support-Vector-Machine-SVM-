@@ -1,4 +1,6 @@
-**Diabetes Prediction Model using Support Vector Machine (SVM)**
+# Diabetes Prediction Model using Support Vector Machine (SVM)
+**Description-Predict diabetes using SVM. Trained on PIMA Diabetes Dataset, this model achieves high accuracy. Easily deployable for individual risk assessment.
+**
 ## OverView
 This repository contains code for a machine learning model designed to predict the likelihood of diabetes based on various health metrics. The model utilizes Support Vector Machine (SVM) classification, a powerful algorithm suitable for binary classification tasks. The dataset used for training and testing the model is the PIMA Diabetes Dataset obtained from the UCI Machine Learning Repository on Kaggle.
 
